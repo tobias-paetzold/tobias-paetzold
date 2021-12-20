@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tobias-paetzold
-- 👀 I’m interested in Cybersecurity, Pen Testing, Machine Learning
+- 👀 I’m interested in Cybersecurity, Pen-Testing, Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on *TBD*
 - 📫 How to reach me --> MS-Teams
