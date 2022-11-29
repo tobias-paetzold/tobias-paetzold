@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Cyber-Security Topics<br>
-👯 I’m looking to collaborate on Automation<br>
-🤝 I’m looking for help with *Open-Source Development*<br>
 🌱 I’m currently learning Python, Flutter, Terraform, Kubernetes<br>
-💬 Ask me about my day<br>
 ⚡ Fun fact 
 > I just pretend that I know what I'm doing
 
